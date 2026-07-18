@@ -4,7 +4,7 @@ An AI-powered **real-time object detection web application** built with **Next.j
 
 ## 🌐 Live Demo
 
-🚀 **Live Website:** (https://friendly-dragon-131d48.netlify.app/?utm_source=chatgpt.com)
+🚀 **Live Website:** https://friendly-dragon-131d48.netlify.app/
 
 ---
 
